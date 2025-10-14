@@ -10,6 +10,16 @@ The main objective of developing this project was to consolidate and deepen my k
 
 </p>
 
+🔗 **Access the game here:**  
+[https://jogodameoria.netlify.app/](https://jogodameoria.netlify.app/)
+
+## 🎮 Como jogar
+
+- Click on two cards to reveal them.
+- If they are the same, they remain face down.
+- If they are different, they turn over again after a second.
+- The game ends when all pairs are found.
+
 ## Screenshots
 
 <p align="center">
