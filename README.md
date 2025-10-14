@@ -13,7 +13,7 @@ The main objective of developing this project was to consolidate and deepen my k
 ## Screenshots
 
 <p align="center">
-  <img width="70%" style="max-width:70%" src="./images/jogo-memoria.png">
+  <img width="70%" style="max-width:70%" src="./assets/MarkUp/jogo-memoria.png">
 </p>
 
 ## Tech Stack
